@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **Web Development (HMTL5, CSS3, JS) and Automation Testing**
 
-- 📫 How to reach me: **carlos-javier.rodriguez@outlook.com**
-
 - ⚡ Fun fact **I love challenges**
 
 <h3 align="center">Connect with me:</h3>
